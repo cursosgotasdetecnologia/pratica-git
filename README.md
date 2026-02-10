@@ -10,3 +10,6 @@
 - **Node.js** (LTS)
 - **JavaScript**
 - **Git/GitHub**
+
+- # 🚀 Status
+- Ambiente configurado e pronto para os primeiros scripts.
