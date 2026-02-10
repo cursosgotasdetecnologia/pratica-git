@@ -1,2 +1,2 @@
-# Projeto Prática Git
+# **Projeto de Automação Playwright**
 
