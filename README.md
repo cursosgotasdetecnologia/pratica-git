@@ -12,4 +12,4 @@
 - **Git/GitHub**
 
 - # 🚀 Status
-- Ambiente configurado e pronto para os primeiros scripts.
+Ambiente configurado e pronto para os primeiros scripts.
